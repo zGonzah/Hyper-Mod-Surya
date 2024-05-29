@@ -1,10 +1,10 @@
 # HyperOS-Mod-Surya
-![HyperOS banner](https://github.com/zGonzah/HyperOS-Mod-Global/assets/83481962/20e2af71-7c99-4984-8b94-ad61b85d3a97)
+![HyperOS banner](https://github.com/zGonzah/Hyper-Mod-Surya/assets/83481962/10c5cc0b-c7d7-4f9b-b985-be4f45ba0f71)
 
 HyperOS Mod Surya by @zGonzah
 
 ## Download
-- [A13 Surya/Karna](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
+- [A13 Surya/Karna](https://drive.google.com/file/d/1Ij6Sx44UhzE1u-bEbnYRvbfm5Gph2bp4/view?usp=sharing)
 
 
 ## Notes:
